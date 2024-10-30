@@ -33,7 +33,8 @@ function digitalRoot(n) {
 * **College:** Ivanovo Industrial and Economic College, Information Systems and Programming (Major)
 * **Cource:**  
 	* [freecodecamp](https://www.freecodecamp.org/matka227)(in progress)
-* **Manual**: [https://learn.javascript.ru](https://learn.javascript.ru)(in progress)
+* **Manual:** [learn.javascript.ru](https://learn.javascript.ru)(in progress)
+* **Codewars:** [dodge_na_abort](https://www.codewars.com/users/dodge_na_abort)
 
 
 ## English language:
